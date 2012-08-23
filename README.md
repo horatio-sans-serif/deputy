@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/fictorial/deputy.png)](http://travis-ci.org/fictorial/deputy)
 # Deputy Job Server ![Project Status](http://stillmaintained.com/fictorial/deputy.png)
 
 A "client" can *do work* and *submit work* to be done by other clients.
